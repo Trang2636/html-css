@@ -1,0 +1,31 @@
+.pic{
+    display: flex;
+    display: row;
+}
+.buton{
+    display: inline-block;
+}
+
+.butt{
+    background-color:#bc2229 ;
+    color: aliceblue;
+    border-radius: 10px;
+    height: 36px;
+    width: 135px;
+}
+.check{
+    background-color:#eaeaea ;
+    color: black;
+    border-radius: 10px;
+    height: 36px;
+    width: 137px;
+}
+
+.box{
+    border: solid #eaeaea;
+    background-color: #eaeaea;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
